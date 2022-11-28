@@ -45,36 +45,28 @@ color: white;
   font-size: 16px;
   margin: -25px 0 0 0px;
   padding: 10px 0px;
-  width: 100%; }
+  width: 100%; 
+  display:inline;
+}
   .in:focus {
     outline: none; }
     .in:focus::-webkit-input-placeholder {
       color: #E0E0E0; }
 
 .in:focus + .underline {
-  transform: scale(1); }
-
-.underline {
-  background-color: #129cf3;
-  display: inline-block;
-  height: 2px;
-  margin-top: -5px;
-  position: absolute;
-  top: 38px;
-  -webkit-transform: scale(0, 2);
-  transform: scale(0, 2);
-  -webkit-transition: all 0.3s linear;
-  transition: all 0.3s linear;
-  width: 95.5%; }
+  transform: scale(0.2); }
 
 .t {
   font-family: 'Didact Gothic', sans-serif;
   color: #969696;
   margin-top: 200px; }
 
+
 .btn {
   font-family: 'Didact Gothic', sans-serif;
-  font-weight: 700; }
+  font-weight: 700; 
+  display: inline;
+}
 
 @media only screen and (max-width: 680px) {
   .display-3 {
