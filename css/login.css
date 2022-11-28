@@ -2,6 +2,11 @@
   padding: 0;
   margin: 0; }
 
+.login{
+  font-family: 'Dancing Script', cursive;
+  font-size: 120px;
+  padding: 50px;
+}
 body {
   overflow: hidden;
   font-family: 'Kaushan Script','Wendy One', sans-serif; }
@@ -33,6 +38,15 @@ input {
 
 .register{
 color: white;
+}
+
+.no-cred{
+  font-family: 'Noto Serif', serif;
+  font-size: 15px;
+  color: white;
+  text-align: center;
+  margin-bottom: 0%;
+  font-weight: 500;
 }
 
 .in {
