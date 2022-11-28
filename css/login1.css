@@ -36,11 +36,11 @@ color: white;
 }
 
 .in {
-  font-family: 'Didact Gothic', sans-serif;
+  font-family: 'Noto Serif', serif;
   background-color: transparent;
   border: none;
-  border-bottom: 1px solid white;
-  font-weight: 900;
+  border-bottom: 1px solid rgb(186, 179, 179);
+  font-weight: 700;
   color: white;
   text-align: center;
   font-size: 25px;
