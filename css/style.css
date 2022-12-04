@@ -7670,6 +7670,12 @@ figure {
   float: right;
 }
 
+.map-container{
+  align-items:center ;
+  justify-content: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
 .sf-menu ul {
   box-shadow: none;
   border: transparent;
