@@ -21,7 +21,7 @@ With Pardise, hotel staff can easily manage reservations, store and retrieve gue
 - An operating system that is compatible with the web server and database software
 
 ## Support
-If you need help with the Pardise hotel management system, please email us at movvavaishnavi@gmail.com. You can also report issues or bugs through our issue tracker at https://github.com/Hotel-Paradise/issues.
+If you need help with the Pardise hotel management system, please email us at movvavaishnavi@gmail.com. You can also report issues or bugs through our issue tracker at https://github.com/Ananta-Vaishnavi/Hotel-Paradise/issues.
 
 ## Acknowledgements
 - [Flaticons](https://www.flaticon.com/) for the icon graphics used in the project.
