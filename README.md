@@ -11,12 +11,16 @@ With Pardise, hotel staff can easily manage reservations, store and retrieve gue
 
 ## Screenshots
 - Home page:
-  ![Home page 1](images_md/home 1.png)
-  ![Home page 2](images_md/home 2.png)
+  ![Home page 1](images_md/home-1.png)
+  ![Home page 2](images_md/home-2.png)
+  
+  
 - Sercives page:
   ![Services page](images_md/services.png)
-- Login page:
+  
+- Contact page:
   ![Contact page](images_md/contact.png)
+  
 - Login page:
   ![Login page](images_md/login.png)
 
