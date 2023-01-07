@@ -1,0 +1,36 @@
+# Pardise Hotel Management System
+
+Pardise is a modern and intuitive hotel management system built to help hotel staff streamline and automate their operations. The platform is developed using HTML, CSS, JavaScript, PHP, and the Bootstrap framework. 
+
+With Pardise, hotel staff can easily manage reservations, store and retrieve guest information, and track room availability and maintenance needs. The platform's user-friendly interface and wide range of features make it an ideal choice for hotels of all sizes.
+
+## Features
+- Booking management: Allows hotel staff to easily create, view, and modify reservations.
+- Guest management: Stores and manages information about hotel guests, including contact details and reservation history.
+- Room management: Helps staff keep track of room availability and maintenance needs.
+
+## Screenshots
+- Home page:
+  ![Home page](screenshots/home.png)
+- Login page:
+  ![Login page](screenshots/login.png)
+
+## Requirements
+- A web server with PHP 5.6 or later installed
+- A database server, such as MySQL
+- A web browser that supports HTML5, CSS3, and JavaScript
+- An operating system that is compatible with the web server and database software
+
+## Support
+If you need help with the Pardise hotel management system, please email us at support@pardise.com. You can also report issues or bugs through our issue tracker at https://github.com/pardise/issues.
+
+## Acknowledgements
+- [Flaticons](https://www.flaticon.com/) for the icon graphics used in the project.
+- [Unsplash](https://unsplash.com/) for the photographs used in the project.
+
+## Contributing
+
+We welcome contributions to Pardise! If you have an idea for a new feature or have found a bug, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to submit a pull request.
+
+## License
+Pardise is licensed under the MIT License. See the `LICENSE` file for more details.
