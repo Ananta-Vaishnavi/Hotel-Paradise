@@ -1,6 +1,6 @@
 # Pardise Hotel Management System
 
-Pardise is a modern and intuitive hotel management system built to help hotel staff streamline and automate their operations. The platform is developed using HTML, CSS, JavaScript, PHP, and the Bootstrap framework. 
+Pardise is a modern hotel management system that helps hotel staff streamline and automate their operations. It includes features such as booking management, guest management, and room management, and is built using HTML, CSS, JavaScript, PHP, and the Bootstrap framework. Pardise is user-friendly and suitable for hotels of all sizes. With its wide range of features and intuitive interface, Pardise is an essential tool for hotels looking to improve their efficiency and guest experience.
 
 With Pardise, hotel staff can easily manage reservations, store and retrieve guest information, and track room availability and maintenance needs. The platform's user-friendly interface and wide range of features make it an ideal choice for hotels of all sizes.
 
