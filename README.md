@@ -49,6 +49,9 @@ If you need help with the Pardise hotel management system, please email us at mo
 We welcome contributions to Pardise! If you have an idea for a new feature or have found a bug, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to submit a pull request.
 
 
+## Acknowledgements
+- [Flaticons](https://www.flaticon.com/) for the icon graphics used in the project.
+- [Unsplash](https://unsplash.com/) for the photographs used in the project.
 
 ## License
 Pardise is licensed under the MIT License. See the `LICENSE` file for more details.
