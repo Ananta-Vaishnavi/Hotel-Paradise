@@ -17,7 +17,6 @@ With Pardise, hotel staff can easily manage reservations, store and retrieve gue
 
 ## Requirements
 - A web server with PHP 5.6 or later installed
-- A database server, such as MySQL
 - A web browser that supports HTML5, CSS3, and JavaScript
 - An operating system that is compatible with the web server and database software
 
