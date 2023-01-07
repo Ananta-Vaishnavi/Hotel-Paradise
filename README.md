@@ -42,13 +42,13 @@ With Pardise, hotel staff can easily manage reservations, store and retrieve gue
 ## Support
 If you need help with the Pardise hotel management system, please email us at movvavaishnavi2503@gmail.com. You can also report issues or bugs through our issue tracker at https://github.com/Ananta-Vaishnavi/Hotel-Paradise/issues.
 
-## Acknowledgements
-- [Flaticons](https://www.flaticon.com/) for the icon graphics used in the project.
-- [Unsplash](https://unsplash.com/) for the photographs used in the project.
+
 
 ## Contributing
 
 We welcome contributions to Pardise! If you have an idea for a new feature or have found a bug, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on how to submit a pull request.
+
+
 
 ## License
 Pardise is licensed under the MIT License. See the `LICENSE` file for more details.
